@@ -1,6 +1,6 @@
-# 👋 Xin chào, mình là Siuitivi
+# 👋 Xin chào, mình là Huu Nguyen
 
-🎓 Sinh viên ngành Thiết kế Vi mạch / Kỹ thuật Máy tính  
+🎓 Sinh viên ngành Thiết kế Vi mạch 
 💻 Quan tâm tới **Embedded Systems**, **FPGA**, **STM32/ESP32**, và **Design Verification**  
 🌱 Hiện đang học thêm về **C++, Verilog, SystemVerilog, UVM**  
 ⚡ Fun fact: Mình thích code song song với học nhạc 🎹
@@ -10,7 +10,7 @@
 ## 🔗 Liên hệ
 - 📧 Email: redmi160206@gmail.com  
 - 🌐 [GitHub](https://github.com/Siuitivi)  
-- 💼 (nếu có LinkedIn thì để link vào đây)
+- 💼 
 
 ---
 
